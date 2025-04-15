@@ -1,0 +1,92 @@
+[
+  {
+    "id": "post-1",
+    "title": "Herramienta Práctica de Caracteres",
+    "date": "2025-01-12",
+    "category": "guias",
+    "imageUrl": "placeholder-blog-1.jpg",
+    "imageAlt": "Caracteres chinos",
+    "excerpt": "Descubre una herramienta útil para aprender y recordar caracteres chinos complejos.",
+    "fullContent": "<p>Explicación detallada sobre la <strong>Herramienta Práctica de Caracteres Chinos</strong>. Esta herramienta te ayuda a descomponer caracteres en sus radicales y entender su significado y pronunciación.</p><p>Funciona mediante tarjetas de memoria visuales y ejercicios interactivos. Ideal para estudiantes de nivel principiante e intermedio.</p><ol><li><strong>Paso 1:</strong> Regístrate en la plataforma (es gratuita).</li><li><strong>Paso 2:</strong> Selecciona tu nivel o los caracteres específicos que quieres aprender.</li><li><strong>Paso 3:</strong> Practica diariamente con las tarjetas y los quizzes.</li></ol><p>¡Verás progreso rápidamente!</p>"
+  },
+  {
+    "id": "post-2",
+    "title": "Flipando en Taiwán: Primeras Impresiones",
+    "date": "2024-11-27",
+    "category": "historias",
+    "imageUrl": "placeholder-blog-2.jpg",
+    "imageAlt": "Paisaje de Taiwán",
+    "excerpt": "Mis aventuras y sorpresas al llegar a Taiwán por primera vez. ¡Una cultura fascinante!",
+    "fullContent": "<p>Recuerdo claramente el día que aterricé en Taoyuan. El aire húmedo, los letreros en chino, la amabilidad desconcertante de la gente... ¡fue un shock cultural positivo!</p><figure><img src=\"placeholder-templo.jpg\" alt=\"Templo tradicional taiwanés\" style=\"width:100%; border-radius: 5px;\"/><figcaption>Uno de los muchos templos impresionantes.</figcaption></figure><p>Desde los mercados nocturnos llenos de comida exótica hasta la eficiencia del MRT (metro), cada día era un descubrimiento. Aquí comparto algunas anécdotas divertidas de esas primeras semanas.</p>"
+  },
+  {
+    "id": "post-3",
+    "title": "De LATAM a Taiwán: El Salto Cultural",
+    "date": "2024-07-28",
+    "category": "experiencias",
+    "imageUrl": "placeholder-blog-3.jpg",
+    "imageAlt": "Mapa señalando Latam y Taiwán",
+    "excerpt": "Comparando y contrastando las diferencias culturales entre Latinoamérica y Taiwán.",
+    "fullContent": "<p>Venir de Latinoamérica a Taiwán implica adaptarse a muchas cosas: la puntualidad, el concepto de 'espacio personal', la forma indirecta de comunicarse, la comida...</p><p>Al principio, cosas como hacer fila para todo o el silencio en el transporte público me parecían extrañas. Ahora, son parte de mi día a día. En este post reflexiono sobre esos choques culturales y cómo los he navegado.</p>"
+  },
+  {
+    "id": "post-4",
+    "title": "LA CULTURA DEL TÉ en Taiwán",
+    "date": "2025-01-12",
+    "category": "historias",
+    "imageUrl": "placeholder-blog-4.jpg",
+    "imageAlt": "Tazas de té",
+    "excerpt": "Explorando la profunda tradición del té en la isla de Formosa. Más que una bebida.",
+    "fullContent": "<p>El té en Taiwán no es solo una bebida caliente, es un arte, una ceremonia, una forma de hospitalidad. Desde el famoso Oolong de alta montaña hasta el té de burbujas que conquistó el mundo.</p><p>Participar en una ceremonia del té tradicional es una experiencia meditativa. Aquí te cuento sobre los diferentes tipos de té taiwanés y dónde disfrutar de una auténtica experiencia.</p>"
+  },
+  {
+    "id": "post-5",
+    "title": "MATRIMONIO EN TAIWÁN: Guía Práctica",
+    "date": "2024-04-21",
+    "category": "guias",
+    "imageUrl": "placeholder-blog-5.jpg",
+    "imageAlt": "Pareja casándose",
+    "excerpt": "Pasos y documentos necesarios para casarse en Taiwán, especialmente si eres extranjero.",
+    "fullContent": "<p>Casarse en Taiwán siendo extranjero puede parecer complicado, ¡pero no lo es tanto si sigues los pasos correctos! Esta guía detalla los documentos que necesitarás de tu país de origen, las traducciones, la visita a la oficina de registro y otros trámites importantes.</p><p><strong>Documentos clave (generalmente):</strong></p><ul><li>Certificado de Soltería (traducido y legalizado).</li><li>Pasaporte vigente.</li><li>ARC (Alien Resident Certificate) si ya resides aquí.</li></ul><p>Consulta siempre con la oficina de registro local (Household Registration Office) para obtener la información más actualizada.</p>"
+  },
+  {
+    "id": "post-6",
+    "title": "ASÍ NACEN LOS ESPÍRITUS: Mitos Taiwaneses",
+    "date": "2025-01-12",
+    "category": "historias",
+    "imageUrl": "placeholder-blog-6.jpg",
+    "imageAlt": "Ilustración espíritu mitológico",
+    "excerpt": "Un vistazo a las fascinantes leyendas y creencias populares sobre fantasmas y espíritus.",
+    "fullContent": "<p>La cultura taiwanesa está llena de historias sobre espíritus, fantasmas y deidades locales. Desde el 'Mes de los Fantasmas' hasta las leyendas sobre espíritus protectores de montañas y ríos.</p><p>Estas creencias influyen en la arquitectura de los templos, en festivales y en rituales cotidianos. Exploraremos algunas de las historias más conocidas y su significado cultural.</p>"
+  },
+  {
+    "id": "post-7",
+    "title": "¿CHINO TRADICIONAL O SIMPLIFICADO?",
+    "date": "2025-01-12",
+    "category": "guias",
+    "imageUrl": "placeholder-blog-7.jpg",
+    "imageAlt": "Caracteres chinos tradicional vs simplificado",
+    "excerpt": "Entendiendo las diferencias y cuál se usa en Taiwán. Guía para estudiantes de mandarín.",
+    "fullContent": "<p>Una pregunta común para quienes empiezan a estudiar mandarín es: ¿aprendo caracteres tradicionales o simplificados?</p><p><strong>En Taiwán se usan exclusivamente los caracteres TRADICIONALES.</strong> Los simplificados se usan en China continental y Singapur.</p><p>Ventajas de aprender tradicional (si tu foco es Taiwán):</p><ul><li>Acceso a literatura y cultura taiwanesa.</li><li>Mayor conexión con la historia del idioma.</li><li>Más fácil pasar de tradicional a simplificado que viceversa.</li></ul><p>Este post profundiza en las diferencias y te ayuda a decidir cuál aprender según tus objetivos.</p>"
+  },
+  {
+    "id": "post-8",
+    "title": "CURIOSIDADES DE TAIWÁN que te sorprenderán",
+    "date": "2024-04-09",
+    "category": "historias",
+    "imageUrl": "placeholder-blog-8.jpg",
+    "imageAlt": "Taipei 101",
+    "excerpt": "Pequeños detalles y hechos sorprendentes sobre la vida y cultura taiwanesa.",
+    "fullContent": "<p>Taiwán está lleno de pequeñas sorpresas. ¿Sabías que...? </p><ul><li>La basura tiene música: los camiones de basura reproducen melodías clásicas para anunciar su llegada.</li><li>Hay tiendas de conveniencia (7-Eleven, FamilyMart) en cada esquina, ¡y puedes hacer casi de todo en ellas!</li><li>El reciclaje es obligatorio y muy organizado.</li><li>Es uno de los lugares más seguros del mundo.</li></ul><p>Descubre más datos curiosos que hacen única a esta isla.</p>"
+  },
+  {
+    "id": "post-9",
+    "title": "¡TERREMOTO EN TAIWÁN! Mi Experiencia",
+    "date": "2025-01-12",
+    "category": "experiencias",
+    "imageUrl": "placeholder-blog-9.jpg",
+    "imageAlt": "Edificio dañado por terremoto",
+    "excerpt": "Relato personal sobre vivir un terremoto en una zona sísmicamente activa.",
+    "fullContent": "<p>Vivir en Taiwán significa acostumbrarse a los temblores. La mayoría son pequeños, pero a veces ocurren terremotos más fuertes.</p><p>Recuerdo el [Fecha o descripción del terremoto específico, si aplica, o uno genérico]. Estaba en [Lugar/Situación]. La sensación de que el suelo se mueve bajo tus pies es indescriptible. Aquí comparto cómo se vive, las medidas de seguridad que se toman y la increíble resiliencia de la gente taiwanesa ante estos fenómenos naturales.</p><p>Es importante estar siempre preparado: tener un kit de emergencia y saber cómo actuar.</p>"
+  }
+]
