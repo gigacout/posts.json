@@ -11,7 +11,6 @@
         { "id": "th_line0", "base_duration": 14.0, "isMelody": true, "texts": {"en": "♫♬♪♩𝄞 Intro", "es": "♫♬♪♩𝄞 Intro", "fr": "♫♬♪♩𝄞 Intro", "de": "♫♬♪♩𝄞 Intro", "pt": "♫♬♪♩𝄞 Intro", "it": "♫♬♪♩𝄞 Intro", "zh-TW": "♫♬♪♩𝄞 前奏", "zh-CN": "♫♬♪♩𝄞 前奏"} },
         { "id": "th_line1", "base_duration": 3.0, "texts": {"en": "Would you know my name", "es": "¿Sabrías mi nombre?", "fr": "Connaîtrais-tu mon nom", "de": "Würdest du meinen Namen kennen", "pt": "Você saberia meu nome", "it": "Sapresti il mio nome", "zh-TW": "你會知道我的名字嗎", "zh-CN": "你会知道我的名字吗"} },
         { "id": "th_line2", "base_duration": 4.0, "texts": {"en": "If I saw you in heaven?", "es": "¿Si te viera en el cielo?", "fr": "Si je te voyais au paradis?", "de": "Wenn ich dich im Himmel sähe?", "pt": "Se eu te visse no céu?", "it": "Se ti vedessi in paradiso?", "zh-TW": "如果我在天堂遇見你？", "zh-CN": "如果我在天堂遇见你？"} }
-        // ... (resto de las líneas de Tears in Heaven como estaban) ...
         ,{ "id": "th_line40", "base_duration": 18.0, "isMelody": true, "texts": {"en": "♫♬♪♩𝄞 Outro", "es": "♫♬♪♩𝄞 Final", "fr": "♫♬♪♩𝄞 Outro", "de": "♫♬♪♩𝄞 Outro", "pt": "♫♬♪♩𝄞 Final", "it": "♫♬♪♩𝄞 Outro", "zh-TW": "♫♬♪♩𝄞 尾奏", "zh-CN": "♫♬♪♩𝄞 尾奏"} }
     ]
   },
@@ -38,9 +37,7 @@
         { "id": "bones_line11", "base_duration": 1.8, "texts": {"en": "I-I-I got this feeling, yeah, you know", "es": "T-t-tengo este sentimiento, sí, ya sabes", "fr": "J-j-j'ai ce sentiment, ouais, tu sais", "de": "I-i-ich habe dieses Gefühl, ja, du weißt schon", "pt": "E-e-eu tenho esse sentimento, sim, você sabe", "it": "H-h-ho questa sensazione, sì, sai", "zh-TW": "我-我-我有這種感覺，是的，你知道", "zh-CN": "我-我-我有这种感觉，是的，你知道"} },
         { "id": "bones_line12", "base_duration": 1.8, "texts": {"en": "Where I'm losing all control", "es": "Donde estoy perdiendo todo el control", "fr": "Où je perds tout contrôle", "de": "Wo ich die ganze Kontrolle verliere", "pt": "Onde estou perdendo todo o controle", "it": "Dove sto perdendo tutto il controllo", "zh-TW": "我正在失去所有控制", "zh-CN": "我正在失去所有控制"} },
         { "id": "bones_line13", "base_duration": 3.8, "texts": {"en": "'Cause there's magic in my bones", "es": "Porque hay magia en mis huesos", "fr": "Parce qu'il y a de la magie dans mes os", "de": "Denn da ist Magie in meinen Knochen", "pt": "Porque há magia nos meus ossos", "it": "Perché c'è magia nelle mie ossa", "zh-TW": "因為我的骨子裡有魔法", "zh-CN": "因为我的骨子里有魔法"} },
-        // ... Añade el resto de la letra de Bones si la tienes ...
         { "id": "bones_line_end", "base_duration": 5.0, "isMelody": true, "texts": {"en": "♫ Outro ♫", "es": "♫ Final ♫", "fr": "♫ Outro ♫", "de": "♫ Outro ♫", "pt": "♫ Final ♫", "it": "♫ Outro ♫", "zh-TW": "♫ 尾奏 ♫", "zh-CN": "♫ 尾奏 ♫"} }
     ]
   }
-  // Puedes añadir más canciones aquí con claves únicas
 }
