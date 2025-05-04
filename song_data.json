@@ -87,5 +87,3 @@
         { "id": "bones_line_end", "base_duration": 5.0, "isMelody": true, "texts": {"en": "♫ Outro ♫", "es": "♫ Final ♫", "fr": "♫ Outro ♫", "de": "♫ Outro ♫", "pt": "♫ Final ♫", "it": "♫ Outro ♫", "zh-TW": "♫ 尾奏 ♫", "zh-CN": "♫ 尾奏 ♫"} }
     ]
   }
-  // "otra_cancion_id": { ...datos de otra cancion... }
-}
