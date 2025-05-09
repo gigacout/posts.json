@@ -248,5 +248,296 @@
       { "id": "festin_line25", "base_duration": 6.0, "texts": {"es": "El festín está en mi camino", "en": "The feast is on my path", "zh-TW": "盛宴就在我的前方", "fr": "Le festin est sur mon chemin", "de": "Das Festmahl liegt auf meinem Weg", "pt": "O banquete está no meu caminho", "it": "Il banchetto è sul mio cammino", "zh-CN": "盛宴就在我的前方"} },
       { "id": "festin_line26", "base_duration": 18.0, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞 Final (Instrumental y vocalizaciones)", "en": "♫♬♪♩𝄞 Outro (Instrumental & Vocalizations)", "zh-TW": "♫♬♪♩𝄞 尾奏 (器樂與發聲)", "fr": "♫♬♪♩𝄞 Outro (Instrumental et vocalises)", "de": "♫♬♪♩𝄞 Outro (Instrumental & Vokalisen)", "pt": "♫♬♪♩𝄞 Final (Instrumental & Vocalizações)", "it": "♫♬♪♩𝄞 Outro (Strumentale & Vocalizzi)", "zh-CN": "♫♬♪♩𝄞 尾奏 (器乐与发声)"} }
     ]
+  },
+  "blue_yung_kai": {
+    "title": "Blue",
+    "artist": "Yung Kai",
+    "originalLang": "en",
+    "languages": {
+      "es": "Español",
+      "en": "Original (EN)",
+      "fr": "Français",
+      "de": "Deutsch",
+      "pt": "Português",
+      "it": "Italiano"
+    },
+    "lines": [
+      {
+        "id": "blue_line1",
+        "base_duration": 18.67,
+        "texts": {
+          "es": "Tus ojos matutinos, podría mirarlos fijamente como si viera estrellas",
+          "en": "Your morning eyes, I could stare like watching stars",
+          "fr": "Tes yeux du matin, je pourrais les fixer comme on regarde les étoiles",
+          "de": "Deine Morgenaugen, ich könnte starren wie Sterne beobachten",
+          "pt": "Seus olhos matinais, eu poderia encarar como quem observa estrelas",
+          "it": "I tuoi occhi del mattino, potrei fissarli come se guardassi le stelle"
+        }
+      },
+      {
+        "id": "blue_line2",
+        "base_duration": 7.61,
+        "texts": {
+          "es": "Podría pasar a tu lado y te diría sin pensarlo",
+          "en": "I could walk you by and I'll tell without a thought",
+          "fr": "Je pourrais passer à tes côtés et je te dirais sans réfléchir",
+          "de": "Ich könnte an dir vorbeigehen, und ich werde es ohne nachzudenken sagen",
+          "pt": "Eu poderia passar por você e te diria sem pensar",
+          "it": "Potrei passarti accanto, e te lo direi senza pensarci"
+        }
+      },
+      {
+        "id": "blue_line3",
+        "base_duration": 6.11,
+        "texts": {
+          "es": "Serías mía, ¿te importaría si tomara tu mano esta noche?",
+          "en": "You'd be mine, would you mind if I took your hand tonight?",
+          "fr": "Tu serais à moi, ça te dérangerait si je prenais ta main ce soir ?",
+          "de": "Du wärst mein, würde es dir etwas ausmachen, wenn ich heute Nacht deine Hand nähme?",
+          "pt": "Você seria minha, você se importaria se eu pegasse sua mão esta noite?",
+          "it": "Saresti mia, ti dispiacerebbe se prendessi la tua mano stanotte?"
+        }
+      },
+      {
+        "id": "blue_line4",
+        "base_duration": 7.26,
+        "texts": {
+          "es": "Saber que eres todo lo que quiero, esta vida",
+          "en": "Know you're all that I want, this life",
+          "fr": "Savoir que tu es tout ce que je veux, cette vie",
+          "de": "Wisse, dass du alles bist, was ich will, dieses Leben",
+          "pt": "Saiba que você é tudo o que eu quero, nesta vida",
+          "it": "Sapere che sei tutto ciò che voglio, questa vita"
+        }
+      },
+      {
+        "id": "blue_line5",
+        "base_duration": 7.75,
+        "texts": {
+          "es": "Imaginaré que nos enamoramos",
+          "en": "I'll imagine we fell in love",
+          "fr": "J'imaginerai que nous sommes tombés amoureux",
+          "de": "Ich werde mir vorstellen, wir haben uns verliebt",
+          "pt": "Vou imaginar que nos apaixonamos",
+          "it": "Immaginerò che ci siamo innamorati"
+        }
+      },
+      {
+        "id": "blue_line6",
+        "base_duration": 3.22,
+        "texts": {
+          "es": "Tomaré una siesta bajo cielos de luna contigo",
+          "en": "I'll nap under moonlight skies with you",
+          "fr": "Je ferai la sieste sous un ciel de lune avec toi",
+          "de": "Ich werde unter dem Mondhimmel mit dir ein Nickerchen machen",
+          "pt": "Vou tirar uma soneca sob o céu ao luar com você",
+          "it": "Farò un pisolino sotto cieli illuminati dalla luna con te"
+        }
+      },
+      {
+        "id": "blue_line7",
+        "base_duration": 3.95,
+        "texts": {
+          "es": "Creo que nos imaginaré, tú con las olas",
+          "en": "I think I'll picture us, you with the waves",
+          "fr": "Je pense que je nous imaginerai, toi avec les vagues",
+          "de": "Ich glaube, ich stelle mir uns vor, dich mit den Wellen",
+          "pt": "Acho que vou nos imaginar, você com as ondas",
+          "it": "Penso che ci immaginerò, tu con le onde"
+        }
+      },
+      {
+        "id": "blue_line8",
+        "base_duration": 3.55,
+        "texts": {
+          "es": "Los colores del océano en tu rostro",
+          "en": "The ocean's colors on your face",
+          "fr": "Les couleurs de l'océan sur ton visage",
+          "de": "Die Farben des Ozeans auf deinem Gesicht",
+          "pt": "As cores do oceano em seu rosto",
+          "it": "I colori dell'oceano sul tuo viso"
+        }
+      },
+      {
+        "id": "blue_line9",
+        "base_duration": 3.67,
+        "texts": {
+          "es": "Dejaré mi corazón con tu aire",
+          "en": "I'll leave my heart with your air",
+          "fr": "Je laisserai mon cœur avec ton air",
+          "de": "Ich werde mein Herz bei deiner Luft lassen",
+          "pt": "Deixarei meu coração com o seu ar",
+          "it": "Lascerò il mio cuore con la tua aria"
+        }
+      },
+      {
+        "id": "blue_line10",
+        "base_duration": 4.39,
+        "texts": {
+          "es": "Así que déjame volar contigo",
+          "en": "So let me fly with you",
+          "fr": "Alors laisse-moi voler avec toi",
+          "de": "Also lass mich mit dir fliegen",
+          "pt": "Então me deixe voar com você",
+          "it": "Quindi lasciami volare con te"
+        }
+      },
+      {
+        "id": "blue_line11",
+        "base_duration": 3.5,
+        "texts": {
+          "es": "¿Estarás por siempre conmigo?",
+          "en": "Will you be forever with me?",
+          "fr": "Seras-tu pour toujours avec moi ?",
+          "de": "Wirst du für immer bei mir sein?",
+          "pt": "Você estará para sempre comigo?",
+          "it": "Sarai per sempre con me?"
+        }
+      },
+      {
+        "id": "blue_line12",
+        "base_duration": 37.44,
+        "texts": {
+          "es": "Mi amor siempre estará a tu lado",
+          "en": "My love will always stay by you",
+          "fr": "Mon amour restera toujours à tes côtés",
+          "de": "Meine Liebe wird immer bei dir bleiben",
+          "pt": "Meu amor sempre ficará ao seu lado",
+          "it": "Il mio amore resterà sempre accanto a te"
+        }
+      },
+      {
+        "id": "blue_line13",
+        "base_duration": 6.13,
+        "texts": {
+          "es": "Lo mantendré a salvo, así que no te preocupes por nada",
+          "en": "I'll keep it safe, so don't you worry a thing",
+          "fr": "Je le garderai en sécurité, alors ne t'inquiète de rien",
+          "de": "Ich werde es sicher aufbewahren, also mach dir keine Sorgen",
+          "pt": "Vou mantê-lo seguro, então não se preocupe com nada",
+          "it": "Lo terrò al sicuro, quindi non preoccuparti di nulla"
+        }
+      },
+      {
+        "id": "blue_line14",
+        "base_duration": 4.83,
+        "texts": {
+          "es": "Te diré que te amo más",
+          "en": "I'll tell you I love you more",
+          "fr": "Je te dirai que je t'aime plus",
+          "de": "Ich werde dir sagen, dass ich dich mehr liebe",
+          "pt": "Eu te direi que te amo mais",
+          "it": "Ti dirò che ti amo di più"
+        }
+      },
+      {
+        "id": "blue_line15",
+        "base_duration": 3.8,
+        "texts": {
+          "es": "Está aferrado a ti para siempre, así que promete que no lo dejarás ir",
+          "en": "It's stuck with you forever, so promise you won't let it go",
+          "fr": "C'est collé à toi pour toujours, alors promets que tu ne le laisseras pas partir",
+          "de": "Es hängt für immer an dir, also versprich, dass du es nicht loslassen wirst",
+          "pt": "Está preso a você para sempre, então prometa que não vai deixar ir",
+          "it": "È bloccato con te per sempre, quindi prometti che non lo lascerai andare"
+        }
+      },
+      {
+        "id": "blue_line16",
+        "base_duration": 6.54,
+        "texts": {
+          "es": "Confiaré en que el universo siempre me traerá a ti",
+          "en": "I'll trust the Universe will always bring me to you",
+          "fr": "Je ferai confiance à l'Univers, il me ramènera toujours à toi",
+          "de": "Ich werde darauf vertrauen, dass das Universum mich immer zu dir bringen wird",
+          "pt": "Vou confiar que o Universo sempre me trará até você",
+          "it": "Mi fiderò dell'Universo che mi porterà sempre da te"
+        }
+      },
+      {
+        "id": "blue_line17",
+        "base_duration": 6.76,
+        "texts": {
+          "es": "Imaginaré que nos enamoramos",
+          "en": "I'll imagine we fell in love",
+          "fr": "J'imaginerai que nous sommes tombés amoureux",
+          "de": "Ich werde mir vorstellen, wir haben uns verliebt",
+          "pt": "Vou imaginar que nos apaixonamos",
+          "it": "Immaginerò che ci siamo innamorati"
+        }
+      },
+      {
+        "id": "blue_line18",
+        "base_duration": 4.39,
+        "texts": {
+          "es": "Tomaré una siesta bajo cielos de luna contigo",
+          "en": "I'll nap under moonlight skies with you",
+          "fr": "Je ferai la sieste sous un ciel de lune avec toi",
+          "de": "Ich werde unter dem Mondhimmel mit dir ein Nickerchen machen",
+          "pt": "Vou tirar uma soneca sob o céu ao luar com você",
+          "it": "Farò un pisolino sotto cieli illuminati dalla luna con te"
+        }
+      },
+      {
+        "id": "blue_line19",
+        "base_duration": 3.56,
+        "texts": {
+          "es": "Creo que nos imaginaré, tú con las olas",
+          "en": "I think I'll picture us, you with the waves",
+          "fr": "Je pense que je nous imaginerai, toi avec les vagues",
+          "de": "Ich glaube, ich stelle mir uns vor, dich mit den Wellen",
+          "pt": "Acho que vou nos imaginar, você com as ondas",
+          "it": "Penso che ci immaginerò, tu con le onde"
+        }
+      },
+      {
+        "id": "blue_line20",
+        "base_duration": 3.6,
+        "texts": {
+          "es": "Los colores del océano en tu rostro",
+          "en": "The ocean's colors on your face",
+          "fr": "Les couleurs de l'océan sur ton visage",
+          "de": "Die Farben des Ozeans auf deinem Gesicht",
+          "pt": "As cores do oceano em seu rosto",
+          "it": "I colori dell'oceano sul tuo viso"
+        }
+      },
+      {
+        "id": "blue_line21",
+        "base_duration": 3.93,
+        "texts": {
+          "es": "Dejaré mi corazón con tu aire",
+          "en": "I'll leave my heart with your air",
+          "fr": "Je laisserai mon cœur avec ton air",
+          "de": "Ich werde mein Herz bei deiner Luft lassen",
+          "pt": "Deixarei meu coração com o seu ar",
+          "it": "Lascerò il mio cuore con la tua aria"
+        }
+      },
+      {
+        "id": "blue_line22",
+        "base_duration": 4.03,
+        "texts": {
+          "es": "Así que déjame volar contigo",
+          "en": "So let me fly with you",
+          "fr": "Alors laisse-moi voler avec toi",
+          "de": "Also lass mich mit dir fliegen",
+          "pt": "Então me deixe voar com você",
+          "it": "Quindi lasciami volare con te"
+        }
+      },
+      {
+        "id": "blue_line23",
+        "base_duration": 5.0,
+        "texts": {
+          "es": "¿Estarás por siempre conmigo?",
+          "en": "Will you be forever with me?",
+          "fr": "Seras-tu pour toujours avec moi ?",
+          "de": "Wirst du für immer bei mir sein?",
+          "pt": "Você estará para sempre comigo?",
+          "it": "Sarai per sempre con me?"
+        }
+      }
+    ]
   }
 }
