@@ -262,9 +262,15 @@
       "it": "Italiano"
     },
     "lines": [
+      { "id": "blue_melody_1", "base_duration": 3.5, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
+      { "id": "blue_melody_2", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
+      { "id": "blue_melody_3", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_4", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_5", "base_duration": 1.9, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_6", "base_duration": 6.5, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
       {
         "id": "blue_line1",
-        "base_duration": 18.67,
+        "base_duration": 7.4,
         "texts": {
           "es": "Tus ojos matutinos, podría mirarlos fijamente como si viera estrellas",
           "en": "Your morning eyes, I could stare like watching stars",
@@ -276,7 +282,7 @@
       },
       {
         "id": "blue_line2",
-        "base_duration": 7.61,
+        "base_duration": 7.4,
         "texts": {
           "es": "Podría pasar a tu lado y te diría sin pensarlo",
           "en": "I could walk you by and I'll tell without a thought",
@@ -288,7 +294,7 @@
       },
       {
         "id": "blue_line3",
-        "base_duration": 6.11,
+        "base_duration": 6.9,
         "texts": {
           "es": "Serías mía, ¿te importaría si tomara tu mano esta noche?",
           "en": "You'd be mine, would you mind if I took your hand tonight?",
@@ -300,7 +306,7 @@
       },
       {
         "id": "blue_line4",
-        "base_duration": 7.26,
+        "base_duration": 7.7,
         "texts": {
           "es": "Saber que eres todo lo que quiero, esta vida",
           "en": "Know you're all that I want, this life",
@@ -310,9 +316,10 @@
           "it": "Sapere che sei tutto ciò che voglio, questa vita"
         }
       },
+      { "id": "blue_melody_7", "base_duration": 0.9, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
       {
         "id": "blue_line5",
-        "base_duration": 7.75,
+        "base_duration": 2.9,
         "texts": {
           "es": "Imaginaré que nos enamoramos",
           "en": "I'll imagine we fell in love",
@@ -324,7 +331,7 @@
       },
       {
         "id": "blue_line6",
-        "base_duration": 3.22,
+        "base_duration": 3.3,
         "texts": {
           "es": "Tomaré una siesta bajo cielos de luna contigo",
           "en": "I'll nap under moonlight skies with you",
@@ -336,7 +343,7 @@
       },
       {
         "id": "blue_line7",
-        "base_duration": 3.95,
+        "base_duration": 3.6,
         "texts": {
           "es": "Creo que nos imaginaré, tú con las olas",
           "en": "I think I'll picture us, you with the waves",
@@ -348,7 +355,7 @@
       },
       {
         "id": "blue_line8",
-        "base_duration": 3.55,
+        "base_duration": 3.5,
         "texts": {
           "es": "Los colores del océano en tu rostro",
           "en": "The ocean's colors on your face",
@@ -360,7 +367,7 @@
       },
       {
         "id": "blue_line9",
-        "base_duration": 3.67,
+        "base_duration": 4.6,
         "texts": {
           "es": "Dejaré mi corazón con tu aire",
           "en": "I'll leave my heart with your air",
@@ -372,7 +379,7 @@
       },
       {
         "id": "blue_line10",
-        "base_duration": 4.39,
+        "base_duration": 3.4,
         "texts": {
           "es": "Así que déjame volar contigo",
           "en": "So let me fly with you",
@@ -384,7 +391,7 @@
       },
       {
         "id": "blue_line11",
-        "base_duration": 3.5,
+        "base_duration": 5.2,
         "texts": {
           "es": "¿Estarás por siempre conmigo?",
           "en": "Will you be forever with me?",
@@ -394,9 +401,19 @@
           "it": "Sarai per sempre con me?"
         }
       },
+      { "id": "blue_melody_8", "base_duration": 2.3, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
+      { "id": "blue_melody_9", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
+      { "id": "blue_melody_10", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_11", "base_duration": 1.7, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_12", "base_duration": 1.9, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_13", "base_duration": 6.9, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
+      { "id": "blue_melody_14", "base_duration": 2.4, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_15", "base_duration": 1.2, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_16", "base_duration": 1.3, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_17", "base_duration": 10.7, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
       {
-        "id": "blue_line12",
-        "base_duration": 37.44,
+        "id": "blue_line12_rep",
+        "base_duration": 6.5,
         "texts": {
           "es": "Mi amor siempre estará a tu lado",
           "en": "My love will always stay by you",
@@ -407,8 +424,8 @@
         }
       },
       {
-        "id": "blue_line13",
-        "base_duration": 6.13,
+        "id": "blue_line13_rep",
+        "base_duration": 4.7,
         "texts": {
           "es": "Lo mantendré a salvo, así que no te preocupes por nada",
           "en": "I'll keep it safe, so don't you worry a thing",
@@ -419,8 +436,8 @@
         }
       },
       {
-        "id": "blue_line14",
-        "base_duration": 4.83,
+        "id": "blue_line14_rep",
+        "base_duration": 3.7,
         "texts": {
           "es": "Te diré que te amo más",
           "en": "I'll tell you I love you more",
@@ -431,8 +448,8 @@
         }
       },
       {
-        "id": "blue_line15",
-        "base_duration": 3.8,
+        "id": "blue_line15_rep",
+        "base_duration": 6.7,
         "texts": {
           "es": "Está aferrado a ti para siempre, así que promete que no lo dejarás ir",
           "en": "It's stuck with you forever, so promise you won't let it go",
@@ -443,8 +460,8 @@
         }
       },
       {
-        "id": "blue_line16",
-        "base_duration": 6.54,
+        "id": "blue_line16_rep",
+        "base_duration": 6.8,
         "texts": {
           "es": "Confiaré en que el universo siempre me traerá a ti",
           "en": "I'll trust the Universe will always bring me to you",
@@ -455,8 +472,8 @@
         }
       },
       {
-        "id": "blue_line17",
-        "base_duration": 6.76,
+        "id": "blue_line17_rep",
+        "base_duration": 4.3,
         "texts": {
           "es": "Imaginaré que nos enamoramos",
           "en": "I'll imagine we fell in love",
@@ -467,8 +484,8 @@
         }
       },
       {
-        "id": "blue_line18",
-        "base_duration": 4.39,
+        "id": "blue_line18_rep",
+        "base_duration": 3.5,
         "texts": {
           "es": "Tomaré una siesta bajo cielos de luna contigo",
           "en": "I'll nap under moonlight skies with you",
@@ -479,8 +496,8 @@
         }
       },
       {
-        "id": "blue_line19",
-        "base_duration": 3.56,
+        "id": "blue_line19_rep",
+        "base_duration": 3.6,
         "texts": {
           "es": "Creo que nos imaginaré, tú con las olas",
           "en": "I think I'll picture us, you with the waves",
@@ -491,8 +508,8 @@
         }
       },
       {
-        "id": "blue_line20",
-        "base_duration": 3.6,
+        "id": "blue_line20_rep",
+        "base_duration": 3.8,
         "texts": {
           "es": "Los colores del océano en tu rostro",
           "en": "The ocean's colors on your face",
@@ -503,8 +520,8 @@
         }
       },
       {
-        "id": "blue_line21",
-        "base_duration": 3.93,
+        "id": "blue_line21_rep",
+        "base_duration": 4.4,
         "texts": {
           "es": "Dejaré mi corazón con tu aire",
           "en": "I'll leave my heart with your air",
@@ -515,8 +532,8 @@
         }
       },
       {
-        "id": "blue_line22",
-        "base_duration": 4.03,
+        "id": "blue_line22_rep",
+        "base_duration": 3.4,
         "texts": {
           "es": "Así que déjame volar contigo",
           "en": "So let me fly with you",
@@ -527,8 +544,8 @@
         }
       },
       {
-        "id": "blue_line23",
-        "base_duration": 5.0,
+        "id": "blue_line23_rep",
+        "base_duration": 6.4,
         "texts": {
           "es": "¿Estarás por siempre conmigo?",
           "en": "Will you be forever with me?",
@@ -537,7 +554,31 @@
           "pt": "Você estará para sempre comigo?",
           "it": "Sarai per sempre con me?"
         }
-      }
-    ]
+      },
+      { "id": "blue_melody_18", "base_duration": 2.0, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
+      { "id": "blue_melody_19", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
+      { "id": "blue_melody_20", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_21", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_22", "base_duration": 1.7, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_23", "base_duration": 7.4, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
+      { "id": "blue_melody_24", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
+      { "id": "blue_melody_25", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
+      { "id": "blue_melody_26", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_27", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_28", "base_duration": 1.9, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_29", "base_duration": 5.4, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
+      { "id": "blue_melody_30", "base_duration": 2.2, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
+      { "id": "blue_melody_31", "base_duration": 1.7, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
+      { "id": "blue_melody_32", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_33", "base_duration": 1.7, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_34", "base_duration": 2.0, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_35", "base_duration": 5.7, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
+      { "id": "blue_melody_36", "base_duration": 1.2, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
+      { "id": "blue_melody_37", "base_duration": 0.4, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
+      { "id": "blue_melody_38", "base_duration": 0.4, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_39", "base_duration": 0.6, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_40", "base_duration": 0.7, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_41_outro", "base_duration": 5.0, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} }
+     ]
   }
 }
