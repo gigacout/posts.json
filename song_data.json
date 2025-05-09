@@ -345,10 +345,10 @@
       { "id": "hswj_melody_s1_n3", "base_duration": 1.6, "isMelody": true, "texts": {"pinyin": "", "es": "♪", "en": "♪", "zh-TW": "♪", "zh-CN": "♪"} },
       { "id": "hswj_melody_s1_n4", "base_duration": 1.7, "isMelody": true, "texts": {"pinyin": "", "es": "♩", "en": "♩", "zh-TW": "♩", "zh-CN": "♩"} },
       { "id": "hswj_melody_s1_n5", "base_duration": 1.7, "isMelody": true, "texts": {"pinyin": "", "es": "𝄞", "en": "𝄞", "zh-TW": "𝄞", "zh-CN": "𝄞"} },
-      { "id": "hswj_melody_s1_n6", "base_duration": 3.7, "isMelody": true, "texts": {"pinyin": "", "es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "zh-TW": "♫♬♪♩𝄞", "zh-CN": "♫♬♪♩𝄞"} },
+      { "id": "hswj_melody_s1_n6", "base_duration": 5.5, "isMelody": true, "texts": {"pinyin": "", "es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "zh-TW": "♫♬♪♩𝄞", "zh-CN": "♫♬♪♩𝄞"} },
       {
         "id": "hswj_line1",
-        "base_duration": 7.4,
+        "base_duration": 6.5,
         "texts": {
           "pinyin": "Nǐ de shēngyīn jiěkāi le gùshì de míyǔ",
           "es": "Tu voz descifró el enigma de la historia",
@@ -562,7 +562,7 @@
       },
       {
         "id": "hswj_line20",
-        "base_duration": 8.6,
+        "base_duration": 6.6,
         "texts": {
           "pinyin": "Rúguǒ kěyǐ mángmáng rénhǎi qiānnián yīyǎn xiāngyù",
           "es": "Si fuera posible, encontrarnos con una mirada en mil años entre la vasta multitud",
@@ -573,7 +573,7 @@
       },
       {
         "id": "hswj_line21",
-        "base_duration": 2.6,
+        "base_duration": 4.0,
         "texts": {
           "pinyin": "Yuèguāng xià zhuǎnshēn nà jiùshì nǐ",
           "es": "Darte la vuelta bajo la luz de la luna, esa eres tú",
