@@ -4,8 +4,8 @@
     "artist": "Eric Clapton",
     "originalLang": "en",
     "languages": {
-       "es": "Español", "en": "Original (EN)", "zh-TW": "繁體中文 (Taiwán)", "fr": "Français", "de": "Deutsch",
-       "pt": "Português", "it": "Italiano", "zh-CN": "简体中文 (China)"
+      "es": "Español", "en": "Original (EN)", "zh-TW": "繁體中文 (Taiwán)", "fr": "Français", "de": "Deutsch",
+      "pt": "Português", "it": "Italiano", "zh-CN": "简体中文 (China)"
     },
     "lines": [
       { "id": "th_line0", "base_duration": 13.5, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞 Intro", "en": "♫♬♪♩𝄞 Intro", "zh-TW": "♫♬♪♩𝄞 前奏", "fr": "♫♬♪♩𝄞 Intro", "de": "♫♬♪♩𝄞 Intro", "pt": "♫♬♪♩𝄞 Intro", "it": "♫♬♪♩𝄞 Intro", "zh-CN": "♫♬♪♩𝄞 前奏"} },
@@ -56,8 +56,8 @@
     "artist": "Imagine Dragons",
     "originalLang": "en",
     "languages": {
-       "es": "Español", "en": "Original (EN)", "zh-TW": "繁體中文", "fr": "Français", "de": "Deutsch",
-       "pt": "Português", "it": "Italiano", "zh-CN": "简体中文"
+      "es": "Español", "en": "Original (EN)", "zh-TW": "繁體中文", "fr": "Français", "de": "Deutsch",
+      "pt": "Português", "it": "Italiano", "zh-CN": "简体中文"
     },
     "lines": [
         { "id": "bones_line0", "base_duration": 4.0, "isMelody": true, "texts": {"es": "♫ Intro ♫", "en": "♫ Intro ♫", "zh-TW": "♫ 前奏 ♫", "fr": "♫ Intro ♫", "de": "♫ Intro ♫", "pt": "♫ Intro ♫", "it": "♫ Intro ♫", "zh-CN": "♫ 前奏 ♫"} },
@@ -118,8 +118,8 @@
     "artist": "Shakira",
     "originalLang": "es",
     "languages": {
-       "es": "Original (ES)", "en": "English", "zh-TW": "繁體中文", "fr": "Français", "de": "Deutsch",
-       "pt": "Português", "it": "Italiano", "zh-CN": "简体中文"
+      "es": "Original (ES)", "en": "English", "zh-TW": "繁體中文", "fr": "Français", "de": "Deutsch",
+      "pt": "Português", "it": "Italiano", "zh-CN": "简体中文"
     },
     "lines": [
       { "id": "enero_line0", "base_duration": 11.5, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞 Intro", "en": "♫♬♪♩𝄞 Intro", "zh-TW": "♫♬♪♩𝄞 前奏", "fr": "♫♬♪♩𝄞 Intro", "de": "♫♬♪♩𝄞 Intro", "pt": "♫♬♪♩𝄞 Intro", "it": "♫♬♪♩𝄞 Intro", "zh-CN": "♫♬♪♩𝄞 前奏"} },
@@ -138,7 +138,7 @@
       { "id": "enero_line13", "base_duration": 3.5, "texts": {"es": "Bien sabes tú", "en": "You know well", "zh-TW": "你很清楚", "fr": "Tu sais bien", "de": "Du weißt gut", "pt": "Bem sabes tu", "it": "Lo sai bene tu", "zh-CN": "你很清楚"} },
       { "id": "enero_line14", "base_duration": 3.5, "texts": {"es": "Que no hay nadie más", "en": "That there's no one else", "zh-TW": "沒有其他人", "fr": "Qu'il n'y a personne d'autre", "de": "Dass es niemanden sonst gibt", "pt": "Que não há mais ninguém", "it": "Che non c'è nessun altro", "zh-CN": "没有其他人"} },
       { "id": "enero_line15", "base_duration": 4.0, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞 Instrumental", "en": "♫♬♪♩𝄞 Instrumental", "zh-TW": "♫♬♪♩𝄞 間奏", "fr": "♫♬♪♩𝄞 Instrumental", "de": "♫♬♪♩𝄞 Instrumental", "pt": "♫♬♪♩𝄞 Instrumental", "it": "♫♬♪♩𝄞 Strumentale", "zh-CN": "♫♬♪♩𝄞 间奏"} },
-      { "id": "enero_line16", "base_duration": 3.5, "texts": {"es": "Y ahora que empezamos lento", "en": "And now that we're starting slow", "zh-TW": "現在我們慢慢開始", "fr": "Et maintenant que nous commençons lentement", "de": "Und jetzt, wo wir langsam anfangen", "pt": "E agora que começamos devagar", "it": "E ora che iniziamo lentamente", "zh-CN": "现在我们慢慢开始"} },
+      { "id": "enero_line16", "base_duration": 3.5, "texts": {"es": "Y ahora que empezamos lento", "en": "And now that we're starting slow", "zh-TW": "現在我們慢慢開始", "fr": "Et maintenant que nous commençons lentamente", "de": "Und jetzt, wo wir langsam anfangen", "pt": "E agora que começamos devagar", "it": "E ora che iniziamo lentamente", "zh-CN": "现在我们慢慢开始"} },
       { "id": "enero_line17", "base_duration": 3.0, "texts": {"es": "Que tú me miras y yo siento", "en": "That you look at me and I feel", "zh-TW": "你看著我，我感覺到", "fr": "Que tu me regardes et je sens", "de": "Dass du mich ansiehst und ich fühle", "pt": "Que tu me olhas e eu sinto", "it": "Che tu mi guardi e io sento", "zh-CN": "你看着我，我感觉到"} },
       { "id": "enero_line18", "base_duration": 4.0, "texts": {"es": "Lo mismo que tú sientes", "en": "The same thing you feel", "zh-TW": "和你一樣的感覺", "fr": "La même chose que tu ressens", "de": "Dasselbe, was du fühlst", "pt": "O mesmo que tu sentes", "it": "La stessa cosa che senti tu", "zh-CN": "和你一样的感觉"} },
       { "id": "enero_line19", "base_duration": 3.0, "texts": {"es": "Esto va pa' largo", "en": "This is going to last", "zh-TW": "這將會持續很久", "fr": "Ça va durer longtemps", "de": "Das wird lange dauern", "pt": "Isto vai durar", "it": "Questa cosa durerà a lungo", "zh-CN": "这将会持续很久"} },
@@ -154,7 +154,7 @@
       { "id": "enero_line29", "base_duration": 3.5, "texts": {"es": "Mereces ser feliz", "en": "Deserve to be happy", "zh-TW": "值得快樂", "fr": "Mérites d'être heureux", "de": "Verdienst es, glücklich zu sein", "pt": "Mereces ser feliz", "it": "Meriti di essere felice", "zh-CN": "值得快乐"} },
       { "id": "enero_line30", "base_duration": 15.0, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞 Puente Instrumental", "en": "♫♬♪♩𝄞 Instrumental Bridge", "zh-TW": "♫♬♪♩𝄞 間奏橋段", "fr": "♫♬♪♩𝄞 Pont Instrumental", "de": "♫♬♪♩𝄞 Instrumentale Brücke", "pt": "♫♬♪♩𝄞 Ponte Instrumental", "it": "♫♬♪♩𝄞 Ponte Strumentale", "zh-CN": "♫♬♪♩𝄞 间奏桥段"} },
       { "id": "enero_line31", "base_duration": 3.5, "texts": {"es": "Ya vas a ver como van sanando", "en": "You'll see how they start healing", "zh-TW": "你會看到傷口如何漸漸癒合", "fr": "Tu vas voir comment elles guérissent", "de": "Du wirst sehen, wie sie zu heilen beginnen", "pt": "Já vais ver como vão sarando", "it": "Vedrai come iniziano a guarire", "zh-CN": "你会看到伤口如何渐渐愈合"} },
-      { "id": "enero_line32", "base_duration": 3.0, "texts": {"es": "Poco a poco tus heridas", "en": "Little by little your wounds", "zh-TW": "你的傷口一點一點地", "fr": "Peu à peu tes blessures", "de": "Nach und nach deine Wunden", "pt": "Pouco a pouco tuas feridas", "it": "A poco a poco le tue ferite", "zh-CN": "你的伤口一点一点地"} },
+      { "id": "enero_line32", "base_duration": 3.0, "texts": {"es": "Poco a poco tus heridas", "en": "Little by little your wounds", "zh-TW": "你的傷口一點一點地", "fr": "Peu à peu tes blessures", "de": "Nach und nach deine Wunden", "pt": "Pouco a poco tuas feridas", "it": "A poco a poco le tue ferite", "zh-CN": "你的伤口一点一点地"} },
       { "id": "enero_line33", "base_duration": 4.0, "texts": {"es": "Ya vas a ver como va la vida", "en": "You'll see how life goes", "zh-TW": "你會看到生活如何", "fr": "Tu vas voir comment va la vie", "de": "Du wirst sehen, wie das Leben läuft", "pt": "Já vais ver como vai a vida", "it": "Vedrai come va la vita", "zh-CN": "你会看到生活如何"} },
       { "id": "enero_line34", "base_duration": 3.0, "texts": {"es": "Cobrando más sentido", "en": "Making more sense", "zh-TW": "變得更有意義", "fr": "Prenant plus de sens", "de": "Mehr Sinn ergibt", "pt": "Ganhando mais sentido", "it": "Prendendo più senso", "zh-CN": "变得更有意义"} },
       { "id": "enero_line35", "base_duration": 3.5, "texts": {"es": "Voy a curarte el alma en duelo", "en": "I'm going to heal your grieving soul", "zh-TW": "我要治癒你哀傷的靈魂", "fr": "Je vais guérir ton âme en deuil", "de": "Ich werde deine trauernde Seele heilen", "pt": "Vou curar tua alma em luto", "it": "Curerò la tua anima in lutto", "zh-CN": "我要治愈你哀伤的灵魂"} },
@@ -262,323 +262,475 @@
       "it": "Italiano"
     },
     "lines": [
-      { "id": "blue_melody_1", "base_duration": 3.5, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
-      { "id": "blue_melody_2", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
-      { "id": "blue_melody_3", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
-      { "id": "blue_melody_4", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
-      { "id": "blue_melody_5", "base_duration": 1.9, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
-      { "id": "blue_melody_6", "base_duration": 6.5, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
+      { "id": "blue_melody_s1_n1", "base_duration": 3.5, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
+      { "id": "blue_melody_s1_n2", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
+      { "id": "blue_melody_s1_n3", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_s1_n4", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_s1_n5", "base_duration": 1.9, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_s1_n6", "base_duration": 6.5, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
+      { "id": "blue_line1", "base_duration": 7.4, "texts": {"es": "Tus ojos matutinos, podría mirarlos fijamente como si viera estrellas", "en": "Your morning eyes, I could stare like watching stars", "fr": "Tes yeux du matin, je pourrais les fixer comme on regarde les étoiles", "de": "Deine Morgenaugen, ich könnte starren wie Sterne beobachten", "pt": "Seus olhos matinais, eu poderia encarar como quem observa estrelas", "it": "I tuoi occhi del mattino, potrei fissarli come se guardassi le stelle"} },
+      { "id": "blue_line2", "base_duration": 7.4, "texts": {"es": "Podría pasar a tu lado y te diría sin pensarlo", "en": "I could walk you by and I'll tell without a thought", "fr": "Je pourrais passer à tes côtés et je te dirais sans réfléchir", "de": "Ich könnte an dir vorbeigehen, und ich werde es ohne nachzudenken sagen", "pt": "Eu poderia passar por você e te diria sem pensar", "it": "Potrei passarti accanto, e te lo direi senza pensarci"} },
+      { "id": "blue_line3", "base_duration": 6.9, "texts": {"es": "Serías mía, ¿te importaría si tomara tu mano esta noche?", "en": "You'd be mine, would you mind if I took your hand tonight?", "fr": "Tu serais à moi, ça te dérangerait si je prenais ta main ce soir ?", "de": "Du wärst mein, würde es dir etwas ausmachen, wenn ich heute Nacht deine Hand nähme?", "pt": "Você seria minha, você se importaria se eu pegasse sua mão esta noite?", "it": "Saresti mia, ti dispiacerebbe se prendessi la tua mano stanotte?"} },
+      { "id": "blue_line4", "base_duration": 7.7, "texts": {"es": "Saber que eres todo lo que quiero, esta vida", "en": "Know you're all that I want, this life", "fr": "Savoir que tu es tout ce que je veux, cette vie", "de": "Wisse, dass du alles bist, was ich will, dieses Leben", "pt": "Saiba que você é tudo o que eu quero, nesta vida", "it": "Sapere che sei tutto ciò che voglio, questa vita"} },
+      { "id": "blue_melody_s2_n1", "base_duration": 0.9, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
+      { "id": "blue_line5", "base_duration": 2.9, "texts": {"es": "Imaginaré que nos enamoramos", "en": "I'll imagine we fell in love", "fr": "J'imaginerai que nous sommes tombés amoureux", "de": "Ich werde mir vorstellen, wir haben uns verliebt", "pt": "Vou imaginar que nos apaixonamos", "it": "Immaginerò che ci siamo innamorati"} },
+      { "id": "blue_line6", "base_duration": 3.3, "texts": {"es": "Tomaré una siesta bajo cielos de luna contigo", "en": "I'll nap under moonlight skies with you", "fr": "Je ferai la sieste sous un ciel de lune avec toi", "de": "Ich werde unter dem Mondhimmel mit dir ein Nickerchen machen", "pt": "Vou tirar uma soneca sob o céu ao luar com você", "it": "Farò un pisolino sotto cieli illuminati dalla luna con te"} },
+      { "id": "blue_line7", "base_duration": 3.6, "texts": {"es": "Creo que nos imaginaré, tú con las olas", "en": "I think I'll picture us, you with the waves", "fr": "Je pense que je nous imaginerai, toi avec les vagues", "de": "Ich glaube, ich stelle mir uns vor, dich mit den Wellen", "pt": "Acho que vou nos imaginar, você com as ondas", "it": "Penso che ci immaginerò, tu con le onde"} },
+      { "id": "blue_line8", "base_duration": 3.5, "texts": {"es": "Los colores del océano en tu rostro", "en": "The ocean's colors on your face", "fr": "Les couleurs de l'océan sur ton visage", "de": "Die Farben des Ozeans auf deinem Gesicht", "pt": "As cores do oceano em seu rosto", "it": "I colori dell'oceano sul tuo viso"} },
+      { "id": "blue_line9", "base_duration": 4.6, "texts": {"es": "Dejaré mi corazón con tu aire", "en": "I'll leave my heart with your air", "fr": "Je laisserai mon cœur avec ton air", "de": "Ich werde mein Herz bei deiner Luft lassen", "pt": "Deixarei meu coração com o seu ar", "it": "Lascerò il mio cuore con la tua aria"} },
+      { "id": "blue_line10", "base_duration": 3.4, "texts": {"es": "Así que déjame volar contigo", "en": "So let me fly with you", "fr": "Alors laisse-moi voler avec toi", "de": "Also lass mich mit dir fliegen", "pt": "Então me deixe voar com você", "it": "Quindi lasciami volare con te"} },
+      { "id": "blue_line11", "base_duration": 5.2, "texts": {"es": "¿Estarás por siempre conmigo?", "en": "Will you be forever with me?", "fr": "Seras-tu pour toujours avec moi ?", "de": "Wirst du für immer bei mir sein?", "pt": "Você estará para sempre comigo?", "it": "Sarai per sempre con me?"} },
+      { "id": "blue_melody_s3_n1", "base_duration": 2.3, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
+      { "id": "blue_melody_s3_n2", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
+      { "id": "blue_melody_s3_n3", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_s3_n4", "base_duration": 1.7, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_s3_n5", "base_duration": 1.9, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_s3_n6", "base_duration": 6.9, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
+      { "id": "blue_melody_s4_n1", "base_duration": 2.4, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_s4_n2", "base_duration": 1.2, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_s4_n3", "base_duration": 1.3, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_s4_n4", "base_duration": 10.7, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
+      { "id": "blue_line12", "base_duration": 6.5, "texts": {"es": "Mi amor siempre estará a tu lado", "en": "My love will always stay by you", "fr": "Mon amour restera toujours à tes côtés", "de": "Meine Liebe wird immer bei dir bleiben", "pt": "Meu amor sempre ficará ao seu lado", "it": "Il mio amore resterà sempre accanto a te"} },
+      { "id": "blue_line13", "base_duration": 4.7, "texts": {"es": "Lo mantendré a salvo, así que no te preocupes por nada", "en": "I'll keep it safe, so don't you worry a thing", "fr": "Je le garderai en sécurité, alors ne t'inquiète de rien", "de": "Ich werde es sicher aufbewahren, also mach dir keine Sorgen", "pt": "Vou mantê-lo seguro, então não se preocupe com nada", "it": "Lo terrò al sicuro, quindi non preoccuparti di nulla"} },
+      { "id": "blue_line14", "base_duration": 3.7, "texts": {"es": "Te diré que te amo más", "en": "I'll tell you I love you more", "fr": "Je te dirai que je t'aime plus", "de": "Ich werde dir sagen, dass ich dich mehr liebe", "pt": "Eu te direi que te amo mais", "it": "Ti dirò che ti amo di più"} },
+      { "id": "blue_line15", "base_duration": 6.7, "texts": {"es": "Está aferrado a ti para siempre, así que promete que no lo dejarás ir", "en": "It's stuck with you forever, so promise you won't let it go", "fr": "C'est collé à toi pour toujours, alors promets que tu ne le laisseras pas partir", "de": "Es hängt für immer an dir, also versprich, dass du es nicht loslassen wirst", "pt": "Está preso a você para sempre, então prometa que não vai deixar ir", "it": "È bloccato con te per sempre, quindi prometti che non lo lascerai andare"} },
+      { "id": "blue_line16", "base_duration": 6.8, "texts": {"es": "Confiaré en que el universo siempre me traerá a ti", "en": "I'll trust the Universe will always bring me to you", "fr": "Je ferai confiance à l'Univers, il me ramènera toujours à toi", "de": "Ich werde darauf vertrauen, dass das Universum mich immer zu dir bringen wird", "pt": "Vou confiar que o Universo sempre me trará até você", "it": "Mi fiderò dell'Universo che mi porterà sempre da te"} },
+      { "id": "blue_line17", "base_duration": 4.3, "texts": {"es": "Imaginaré que nos enamoramos", "en": "I'll imagine we fell in love", "fr": "J'imaginerai que nous sommes tombés amoureux", "de": "Ich werde mir vorstellen, wir haben uns verliebt", "pt": "Vou imaginar que nos apaixonamos", "it": "Immaginerò che ci siamo innamorati"} },
+      { "id": "blue_line18", "base_duration": 3.5, "texts": {"es": "Tomaré una siesta bajo cielos de luna contigo", "en": "I'll nap under moonlight skies with you", "fr": "Je ferai la sieste sous un ciel de lune avec toi", "de": "Ich werde unter dem Mondhimmel mit dir ein Nickerchen machen", "pt": "Vou tirar uma soneca sob o céu ao luar com você", "it": "Farò un pisolino sotto cieli illuminati dalla luna con te"} },
+      { "id": "blue_line19", "base_duration": 3.6, "texts": {"es": "Creo que nos imaginaré, tú con las olas", "en": "I think I'll picture us, you with the waves", "fr": "Je pense que je nous imaginerai, toi avec les vagues", "de": "Ich glaube, ich stelle mir uns vor, dich mit den Wellen", "pt": "Acho que vou nos imaginar, você com as ondas", "it": "Penso che ci immaginerò, tu con le onde"} },
+      { "id": "blue_line20", "base_duration": 3.8, "texts": {"es": "Los colores del océano en tu rostro", "en": "The ocean's colors on your face", "fr": "Les couleurs de l'océan sur ton visage", "de": "Die Farben des Ozeans auf deinem Gesicht", "pt": "As cores do oceano em seu rosto", "it": "I colori dell'oceano sul tuo viso"} },
+      { "id": "blue_line21", "base_duration": 4.4, "texts": {"es": "Dejaré mi corazón con tu aire", "en": "I'll leave my heart with your air", "fr": "Je laisserai mon cœur avec ton air", "de": "Ich werde mein Herz bei deiner Luft lassen", "pt": "Deixarei meu coração com o seu ar", "it": "Lascerò il mio cuore con la tua aria"} },
+      { "id": "blue_line22", "base_duration": 3.4, "texts": {"es": "Así que déjame volar contigo", "en": "So let me fly with you", "fr": "Alors laisse-moi voler avec toi", "de": "Also lass mich mit dir fliegen", "pt": "Então me deixe voar com você", "it": "Quindi lasciami volare con te"} },
+      { "id": "blue_line23", "base_duration": 6.4, "texts": {"es": "¿Estarás por siempre conmigo?", "en": "Will you be forever with me?", "fr": "Seras-tu pour toujours avec moi ?", "de": "Wirst du für immer bei mir sein?", "pt": "Você estará para sempre comigo?", "it": "Sarai per sempre con me?"} },
+      { "id": "blue_melody_s5_n1", "base_duration": 2.0, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
+      { "id": "blue_melody_s5_n2", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
+      { "id": "blue_melody_s5_n3", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_s5_n4", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_s5_n5", "base_duration": 1.7, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_s5_n6", "base_duration": 7.4, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
+      { "id": "blue_melody_s6_n1", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
+      { "id": "blue_melody_s6_n2", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
+      { "id": "blue_melody_s6_n3", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_s6_n4", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_s6_n5", "base_duration": 1.9, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_s6_n6", "base_duration": 5.4, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
+      { "id": "blue_melody_s7_n1", "base_duration": 2.2, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
+      { "id": "blue_melody_s7_n2", "base_duration": 1.7, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
+      { "id": "blue_melody_s7_n3", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_s7_n4", "base_duration": 1.7, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_s7_n5", "base_duration": 2.0, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_s7_n6", "base_duration": 5.7, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
+      { "id": "blue_melody_s8_n1", "base_duration": 1.2, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
+      { "id": "blue_melody_s8_n2", "base_duration": 0.4, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
+      { "id": "blue_melody_s8_n3", "base_duration": 0.4, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
+      { "id": "blue_melody_s8_n4", "base_duration": 0.6, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
+      { "id": "blue_melody_s8_n5", "base_duration": 0.7, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
+      { "id": "blue_melody_s8_n6", "base_duration": 5.0, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} }
+    ]
+  },
+  "hongse_weijin_weibird": {
+    "title": "紅色圍巾 (Hóngsè Wéijīn)",
+    "artist": "Weibird Wei (韋禮安)",
+    "originalLang": "zh-TW",
+    "languages": {
+      "pinyin": "Pinyin",
+      "es": "Español",
+      "en": "English",
+      "zh-TW": "Original (繁體中文)",
+      "zh-CN": "简体中文"
+    },
+    "lines": [
+      { "id": "hswj_melody_s1_n1", "base_duration": 1.1, "isMelody": true, "texts": {"pinyin": "", "es": "♫", "en": "♫", "zh-TW": "♫", "zh-CN": "♫"} },
+      { "id": "hswj_melody_s1_n2", "base_duration": 2.0, "isMelody": true, "texts": {"pinyin": "", "es": "♬", "en": "♬", "zh-TW": "♬", "zh-CN": "♬"} },
+      { "id": "hswj_melody_s1_n3", "base_duration": 1.6, "isMelody": true, "texts": {"pinyin": "", "es": "♪", "en": "♪", "zh-TW": "♪", "zh-CN": "♪"} },
+      { "id": "hswj_melody_s1_n4", "base_duration": 1.7, "isMelody": true, "texts": {"pinyin": "", "es": "♩", "en": "♩", "zh-TW": "♩", "zh-CN": "♩"} },
+      { "id": "hswj_melody_s1_n5", "base_duration": 1.7, "isMelody": true, "texts": {"pinyin": "", "es": "𝄞", "en": "𝄞", "zh-TW": "𝄞", "zh-CN": "𝄞"} },
+      { "id": "hswj_melody_s1_n6", "base_duration": 3.7, "isMelody": true, "texts": {"pinyin": "", "es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "zh-TW": "♫♬♪♩𝄞", "zh-CN": "♫♬♪♩𝄞"} },
       {
-        "id": "blue_line1",
+        "id": "hswj_line1",
         "base_duration": 7.4,
         "texts": {
-          "es": "Tus ojos matutinos, podría mirarlos fijamente como si viera estrellas",
-          "en": "Your morning eyes, I could stare like watching stars",
-          "fr": "Tes yeux du matin, je pourrais les fixer comme on regarde les étoiles",
-          "de": "Deine Morgenaugen, ich könnte starren wie Sterne beobachten",
-          "pt": "Seus olhos matinais, eu poderia encarar como quem observa estrelas",
-          "it": "I tuoi occhi del mattino, potrei fissarli come se guardassi le stelle"
+          "pinyin": "Nǐ de shēngyīn jiěkāi le gùshì de míyǔ",
+          "es": "Tu voz descifró el enigma de la historia",
+          "en": "Your voice unraveled the riddle of the story",
+          "zh-TW": "妳的聲音 解開了故事的謎語",
+          "zh-CN": "妳的声音 解开了故事的谜语"
         }
       },
       {
-        "id": "blue_line2",
-        "base_duration": 7.4,
+        "id": "hswj_line2",
+        "base_duration": 5.3,
         "texts": {
-          "es": "Podría pasar a tu lado y te diría sin pensarlo",
-          "en": "I could walk you by and I'll tell without a thought",
-          "fr": "Je pourrais passer à tes côtés et je te dirais sans réfléchir",
-          "de": "Ich könnte an dir vorbeigehen, und ich werde es ohne nachzudenken sagen",
-          "pt": "Eu poderia passar por você e te diria sem pensar",
-          "it": "Potrei passarti accanto, e te lo direi senza pensarci"
+          "pinyin": "Luòxià yī wàn nián de yuēdìng",
+          "es": "Cayó una promesa de diez mil años",
+          "en": "A promise of ten thousand years fell",
+          "zh-TW": "落下一萬年的約定",
+          "zh-CN": "落下一万年的约定"
         }
       },
       {
-        "id": "blue_line3",
-        "base_duration": 6.9,
+        "id": "hswj_line3",
+        "base_duration": 6.6,
         "texts": {
-          "es": "Serías mía, ¿te importaría si tomara tu mano esta noche?",
-          "en": "You'd be mine, would you mind if I took your hand tonight?",
-          "fr": "Tu serais à moi, ça te dérangerait si je prenais ta main ce soir ?",
-          "de": "Du wärst mein, würde es dir etwas ausmachen, wenn ich heute Nacht deine Hand nähme?",
-          "pt": "Você seria minha, você se importaria se eu pegasse sua mão esta noite?",
-          "it": "Saresti mia, ti dispiacerebbe se prendessi la tua mano stanotte?"
+          "pinyin": "Dà shù xià de nǐ hóngsè wéijīn shǒuxīn lǐ pěng de yǔ",
+          "es": "Tú bajo el gran árbol, bufanda roja, la lluvia sostenida en la palma de tu mano",
+          "en": "You under the big tree, red scarf, rain held in your palm",
+          "zh-TW": "大樹下的妳 紅色圍巾 手心裡捧的雨",
+          "zh-CN": "大树下的妳 红色围巾 手心里捧的雨"
         }
       },
       {
-        "id": "blue_line4",
-        "base_duration": 7.7,
+        "id": "hswj_line4",
+        "base_duration": 6.3,
         "texts": {
-          "es": "Saber que eres todo lo que quiero, esta vida",
-          "en": "Know you're all that I want, this life",
-          "fr": "Savoir que tu es tout ce que je veux, cette vie",
-          "de": "Wisse, dass du alles bist, was ich will, dieses Leben",
-          "pt": "Saiba que você é tudo o que eu quero, nesta vida",
-          "it": "Sapere che sei tutto ciò che voglio, questa vita"
+          "pinyin": "Kū le xiào le chúle nǐ háishì nǐ",
+          "es": "Lloraste, reíste, aparte de ti, sigues siendo tú",
+          "en": "Cried, laughed, besides you, it's still you",
+          "zh-TW": "哭了笑了 除了妳還是妳",
+          "zh-CN": "哭了笑了 除了妳还是妳"
         }
       },
-      { "id": "blue_melody_7", "base_duration": 0.9, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
       {
-        "id": "blue_line5",
-        "base_duration": 2.9,
+        "id": "hswj_line5",
+        "base_duration": 8.2,
         "texts": {
-          "es": "Imaginaré que nos enamoramos",
-          "en": "I'll imagine we fell in love",
-          "fr": "J'imaginerai que nous sommes tombés amoureux",
-          "de": "Ich werde mir vorstellen, wir haben uns verliebt",
-          "pt": "Vou imaginar que nos apaixonamos",
-          "it": "Immaginerò che ci siamo innamorati"
+          "pinyin": "Wǒmen rúguǒ yòu yīcì cuòguò bù gǎn qiān qǐ nǐ de shǒu",
+          "es": "Si nos volviéramos a perder, y no me atreviera a tomar tu mano",
+          "en": "If we missed each other again, and I didn't dare to hold your hand",
+          "zh-TW": "我們 如果又一次錯過 不敢牽起妳的手",
+          "zh-CN": "我们 如果又一次错过 不敢牵起妳的手"
         }
       },
       {
-        "id": "blue_line6",
-        "base_duration": 3.3,
+        "id": "hswj_line6",
+        "base_duration": 5.1,
         "texts": {
-          "es": "Tomaré una siesta bajo cielos de luna contigo",
-          "en": "I'll nap under moonlight skies with you",
-          "fr": "Je ferai la sieste sous un ciel de lune avec toi",
-          "de": "Ich werde unter dem Mondhimmel mit dir ein Nickerchen machen",
-          "pt": "Vou tirar uma soneca sob o céu ao luar com você",
-          "it": "Farò un pisolino sotto cieli illuminati dalla luna con te"
+          "pinyin": "Wǒ huì duōme jìmò děngdài hóngxiàn lái de shíhòu",
+          "es": "Qué solitario estaría esperando el momento del hilo rojo del destino",
+          "en": "How lonely I would be, waiting for the red thread of fate to arrive",
+          "zh-TW": "我會多麼寂寞 等待紅線來的時候",
+          "zh-CN": "我会多么寂寞 等待红线来的时候"
         }
       },
       {
-        "id": "blue_line7",
-        "base_duration": 3.6,
-        "texts": {
-          "es": "Creo que nos imaginaré, tú con las olas",
-          "en": "I think I'll picture us, you with the waves",
-          "fr": "Je pense que je nous imaginerai, toi avec les vagues",
-          "de": "Ich glaube, ich stelle mir uns vor, dich mit den Wellen",
-          "pt": "Acho que vou nos imaginar, você com as ondas",
-          "it": "Penso che ci immaginerò, tu con le onde"
-        }
-      },
-      {
-        "id": "blue_line8",
-        "base_duration": 3.5,
-        "texts": {
-          "es": "Los colores del océano en tu rostro",
-          "en": "The ocean's colors on your face",
-          "fr": "Les couleurs de l'océan sur ton visage",
-          "de": "Die Farben des Ozeans auf deinem Gesicht",
-          "pt": "As cores do oceano em seu rosto",
-          "it": "I colori dell'oceano sul tuo viso"
-        }
-      },
-      {
-        "id": "blue_line9",
-        "base_duration": 4.6,
-        "texts": {
-          "es": "Dejaré mi corazón con tu aire",
-          "en": "I'll leave my heart with your air",
-          "fr": "Je laisserai mon cœur avec ton air",
-          "de": "Ich werde mein Herz bei deiner Luft lassen",
-          "pt": "Deixarei meu coração com o seu ar",
-          "it": "Lascerò il mio cuore con la tua aria"
-        }
-      },
-      {
-        "id": "blue_line10",
-        "base_duration": 3.4,
-        "texts": {
-          "es": "Así que déjame volar contigo",
-          "en": "So let me fly with you",
-          "fr": "Alors laisse-moi voler avec toi",
-          "de": "Also lass mich mit dir fliegen",
-          "pt": "Então me deixe voar com você",
-          "it": "Quindi lasciami volare con te"
-        }
-      },
-      {
-        "id": "blue_line11",
-        "base_duration": 5.2,
-        "texts": {
-          "es": "¿Estarás por siempre conmigo?",
-          "en": "Will you be forever with me?",
-          "fr": "Seras-tu pour toujours avec moi ?",
-          "de": "Wirst du für immer bei mir sein?",
-          "pt": "Você estará para sempre comigo?",
-          "it": "Sarai per sempre con me?"
-        }
-      },
-      { "id": "blue_melody_8", "base_duration": 2.3, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
-      { "id": "blue_melody_9", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
-      { "id": "blue_melody_10", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
-      { "id": "blue_melody_11", "base_duration": 1.7, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
-      { "id": "blue_melody_12", "base_duration": 1.9, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
-      { "id": "blue_melody_13", "base_duration": 6.9, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
-      { "id": "blue_melody_14", "base_duration": 2.4, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
-      { "id": "blue_melody_15", "base_duration": 1.2, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
-      { "id": "blue_melody_16", "base_duration": 1.3, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
-      { "id": "blue_melody_17", "base_duration": 10.7, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
-      {
-        "id": "blue_line12_rep",
+        "id": "hswj_line7",
         "base_duration": 6.5,
         "texts": {
-          "es": "Mi amor siempre estará a tu lado",
-          "en": "My love will always stay by you",
-          "fr": "Mon amour restera toujours à tes côtés",
-          "de": "Meine Liebe wird immer bei dir bleiben",
-          "pt": "Meu amor sempre ficará ao seu lado",
-          "it": "Il mio amore resterà sempre accanto a te"
+          "pinyin": "Rúguǒ kěyǐ wǒ xiǎng hé nǐ huí dào nà tiān xiāngyù",
+          "es": "Si pudiera, quisiera volver contigo al día en que nos conocimos",
+          "en": "If I could, I'd want to go back with you to the day we met",
+          "zh-TW": "如果可以 我想和妳回到那天相遇",
+          "zh-CN": "如果可以 我想和妳回到那天相遇"
         }
       },
       {
-        "id": "blue_line13_rep",
+        "id": "hswj_line8",
         "base_duration": 4.7,
         "texts": {
-          "es": "Lo mantendré a salvo, así que no te preocupes por nada",
-          "en": "I'll keep it safe, so don't you worry a thing",
-          "fr": "Je le garderai en sécurité, alors ne t'inquiète de rien",
-          "de": "Ich werde es sicher aufbewahren, also mach dir keine Sorgen",
-          "pt": "Vou mantê-lo seguro, então não se preocupe com nada",
-          "it": "Lo terrò al sicuro, quindi non preoccuparti di nulla"
+          "pinyin": "Ràng shíjiān tíngzhǐ nà yī chǎng yǔ",
+          "es": "Detener el tiempo en aquella lluvia",
+          "en": "Let time stop, that one rain",
+          "zh-TW": "讓時間停止 那一場雨",
+          "zh-CN": "让时间停止 那一场雨"
         }
       },
       {
-        "id": "blue_line14_rep",
-        "base_duration": 3.7,
+        "id": "hswj_line9",
+        "base_duration": 7.7,
         "texts": {
-          "es": "Te diré que te amo más",
-          "en": "I'll tell you I love you more",
-          "fr": "Je te dirai que je t'aime plus",
-          "de": "Ich werde dir sagen, dass ich dich mehr liebe",
-          "pt": "Eu te direi que te amo mais",
-          "it": "Ti dirò che ti amo di più"
+          "pinyin": "Zhǐ xiǎng yōngbào nǐ zài shēnbiān de zhèngjù wěn nǐ de hūxī",
+          "es": "Solo quiero abrazar la prueba de que estás a mi lado, besar tu aliento",
+          "en": "Just want to embrace the proof of you by my side, kiss your breath",
+          "zh-TW": "只想擁抱 妳在身邊的證據 吻妳的呼吸",
+          "zh-CN": "只想拥抱 妳在身边的证据 吻妳的呼吸"
         }
       },
       {
-        "id": "blue_line15_rep",
-        "base_duration": 6.7,
+        "id": "hswj_line10",
+        "base_duration": 5.9,
         "texts": {
-          "es": "Está aferrado a ti para siempre, así que promete que no lo dejarás ir",
-          "en": "It's stuck with you forever, so promise you won't let it go",
-          "fr": "C'est collé à toi pour toujours, alors promets que tu ne le laisseras pas partir",
-          "de": "Es hängt für immer an dir, also versprich, dass du es nicht loslassen wirst",
-          "pt": "Está preso a você para sempre, então prometa que não vai deixar ir",
-          "it": "È bloccato con te per sempre, quindi prometti che non lo lascerai andare"
+          "pinyin": "Yī zhǎyǎn yī shùnjiān nǐ shuō hǎo jiùshì yǒngyuǎn",
+          "es": "En un parpadeo, en un instante, dijiste que sí sería para siempre",
+          "en": "In a blink, in an instant, you said yes would be forever",
+          "zh-TW": "一眨眼 一瞬間 妳說好就是永遠",
+          "zh-CN": "一眨眼 一瞬间 妳说好就是永远"
         }
       },
       {
-        "id": "blue_line16_rep",
+        "id": "hswj_line11",
+        "base_duration": 2.9,
+        "texts": {
+          "pinyin": "Bú huì biàn",
+          "es": "No cambiará",
+          "en": "It won't change",
+          "zh-TW": "不會變",
+          "zh-CN": "不会变"
+        }
+      },
+      { "id": "hswj_melody_s2_n1", "base_duration": 1.6, "isMelody": true, "texts": {"pinyin": "", "es": "♫", "en": "♫", "zh-TW": "♫", "zh-CN": "♫"} },
+      { "id": "hswj_melody_s2_n2", "base_duration": 1.5, "isMelody": true, "texts": {"pinyin": "", "es": "♬", "en": "♬", "zh-TW": "♬", "zh-CN": "♬"} },
+      { "id": "hswj_melody_s2_n3", "base_duration": 1.9, "isMelody": true, "texts": {"pinyin": "", "es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "zh-TW": "♫♬♪♩𝄞", "zh-CN": "♫♬♪♩𝄞"} },
+      { "id": "hswj_melody_s2_n4", "base_duration": 2.2, "isMelody": true, "texts": {"pinyin": "", "es": "♩", "en": "♩", "zh-TW": "♩", "zh-CN": "♩"} },
+      { "id": "hswj_melody_s2_n5", "base_duration": 9.1, "isMelody": true, "texts": {"pinyin": "", "es": "𝄞", "en": "𝄞", "zh-TW": "𝄞", "zh-CN": "𝄞"} },
+      {
+        "id": "hswj_line12",
         "base_duration": 6.8,
         "texts": {
-          "es": "Confiaré en que el universo siempre me traerá a ti",
-          "en": "I'll trust the Universe will always bring me to you",
-          "fr": "Je ferai confiance à l'Univers, il me ramènera toujours à toi",
-          "de": "Ich werde darauf vertrauen, dass das Universum mich immer zu dir bringen wird",
-          "pt": "Vou confiar que o Universo sempre me trará até você",
-          "it": "Mi fiderò dell'Universo che mi porterà sempre da te"
+          "pinyin": "Dà shù xià de nǐ hóngsè wéijīn shǒuxīn lǐ pěng de yǔ",
+          "es": "Tú bajo el gran árbol, bufanda roja, la lluvia sostenida en la palma de tu mano",
+          "en": "You under the big tree, red scarf, rain held in your palm",
+          "zh-TW": "大樹下的妳 紅色圍巾 手心裡捧的雨",
+          "zh-CN": "大树下的妳 红色围巾 手心里捧的雨"
         }
       },
       {
-        "id": "blue_line17_rep",
-        "base_duration": 4.3,
-        "texts": {
-          "es": "Imaginaré que nos enamoramos",
-          "en": "I'll imagine we fell in love",
-          "fr": "J'imaginerai que nous sommes tombés amoureux",
-          "de": "Ich werde mir vorstellen, wir haben uns verliebt",
-          "pt": "Vou imaginar que nos apaixonamos",
-          "it": "Immaginerò che ci siamo innamorati"
-        }
-      },
-      {
-        "id": "blue_line18_rep",
-        "base_duration": 3.5,
-        "texts": {
-          "es": "Tomaré una siesta bajo cielos de luna contigo",
-          "en": "I'll nap under moonlight skies with you",
-          "fr": "Je ferai la sieste sous un ciel de lune avec toi",
-          "de": "Ich werde unter dem Mondhimmel mit dir ein Nickerchen machen",
-          "pt": "Vou tirar uma soneca sob o céu ao luar com você",
-          "it": "Farò un pisolino sotto cieli illuminati dalla luna con te"
-        }
-      },
-      {
-        "id": "blue_line19_rep",
-        "base_duration": 3.6,
-        "texts": {
-          "es": "Creo que nos imaginaré, tú con las olas",
-          "en": "I think I'll picture us, you with the waves",
-          "fr": "Je pense que je nous imaginerai, toi avec les vagues",
-          "de": "Ich glaube, ich stelle mir uns vor, dich mit den Wellen",
-          "pt": "Acho que vou nos imaginar, você com as ondas",
-          "it": "Penso che ci immaginerò, tu con le onde"
-        }
-      },
-      {
-        "id": "blue_line20_rep",
-        "base_duration": 3.8,
-        "texts": {
-          "es": "Los colores del océano en tu rostro",
-          "en": "The ocean's colors on your face",
-          "fr": "Les couleurs de l'océan sur ton visage",
-          "de": "Die Farben des Ozeans auf deinem Gesicht",
-          "pt": "As cores do oceano em seu rosto",
-          "it": "I colori dell'oceano sul tuo viso"
-        }
-      },
-      {
-        "id": "blue_line21_rep",
-        "base_duration": 4.4,
-        "texts": {
-          "es": "Dejaré mi corazón con tu aire",
-          "en": "I'll leave my heart with your air",
-          "fr": "Je laisserai mon cœur avec ton air",
-          "de": "Ich werde mein Herz bei deiner Luft lassen",
-          "pt": "Deixarei meu coração com o seu ar",
-          "it": "Lascerò il mio cuore con la tua aria"
-        }
-      },
-      {
-        "id": "blue_line22_rep",
-        "base_duration": 3.4,
-        "texts": {
-          "es": "Así que déjame volar contigo",
-          "en": "So let me fly with you",
-          "fr": "Alors laisse-moi voler avec toi",
-          "de": "Also lass mich mit dir fliegen",
-          "pt": "Então me deixe voar com você",
-          "it": "Quindi lasciami volare con te"
-        }
-      },
-      {
-        "id": "blue_line23_rep",
+        "id": "hswj_line13",
         "base_duration": 6.4,
         "texts": {
-          "es": "¿Estarás por siempre conmigo?",
-          "en": "Will you be forever with me?",
-          "fr": "Seras-tu pour toujours avec moi ?",
-          "de": "Wirst du für immer bei mir sein?",
-          "pt": "Você estará para sempre comigo?",
-          "it": "Sarai per sempre con me?"
+          "pinyin": "Kū le xiào le chúle nǐ háishì nǐ",
+          "es": "Lloraste, reíste, aparte de ti, sigues siendo tú",
+          "en": "Cried, laughed, besides you, it's still you",
+          "zh-TW": "哭了笑了 除了妳還是妳",
+          "zh-CN": "哭了笑了 除了妳还是妳"
         }
       },
-      { "id": "blue_melody_18", "base_duration": 2.0, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
-      { "id": "blue_melody_19", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
-      { "id": "blue_melody_20", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
-      { "id": "blue_melody_21", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
-      { "id": "blue_melody_22", "base_duration": 1.7, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
-      { "id": "blue_melody_23", "base_duration": 7.4, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
-      { "id": "blue_melody_24", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
-      { "id": "blue_melody_25", "base_duration": 1.9, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
-      { "id": "blue_melody_26", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
-      { "id": "blue_melody_27", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
-      { "id": "blue_melody_28", "base_duration": 1.9, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
-      { "id": "blue_melody_29", "base_duration": 5.4, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
-      { "id": "blue_melody_30", "base_duration": 2.2, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
-      { "id": "blue_melody_31", "base_duration": 1.7, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
-      { "id": "blue_melody_32", "base_duration": 1.8, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
-      { "id": "blue_melody_33", "base_duration": 1.7, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
-      { "id": "blue_melody_34", "base_duration": 2.0, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
-      { "id": "blue_melody_35", "base_duration": 5.7, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} },
-      { "id": "blue_melody_36", "base_duration": 1.2, "isMelody": true, "texts": {"es": "♫", "en": "♫", "fr": "♫", "de": "♫", "pt": "♫", "it": "♫"} },
-      { "id": "blue_melody_37", "base_duration": 0.4, "isMelody": true, "texts": {"es": "♬", "en": "♬", "fr": "♬", "de": "♬", "pt": "♬", "it": "♬"} },
-      { "id": "blue_melody_38", "base_duration": 0.4, "isMelody": true, "texts": {"es": "♪", "en": "♪", "fr": "♪", "de": "♪", "pt": "♪", "it": "♪"} },
-      { "id": "blue_melody_39", "base_duration": 0.6, "isMelody": true, "texts": {"es": "♩", "en": "♩", "fr": "♩", "de": "♩", "pt": "♩", "it": "♩"} },
-      { "id": "blue_melody_40", "base_duration": 0.7, "isMelody": true, "texts": {"es": "𝄞", "en": "𝄞", "fr": "𝄞", "de": "𝄞", "pt": "𝄞", "it": "𝄞"} },
-      { "id": "blue_melody_41_outro", "base_duration": 5.0, "isMelody": true, "texts": {"es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "fr": "♫♬♪♩𝄞", "de": "♫♬♪♩𝄞", "pt": "♫♬♪♩𝄞", "it": "♫♬♪♩𝄞"} }
-     ]
+      {
+        "id": "hswj_line14",
+        "base_duration": 8.0,
+        "texts": {
+          "pinyin": "Wǒmen rúguǒ yòu yīcì cuòguò bù gǎn qiān qǐ nǐ de shǒu",
+          "es": "Si nos volviéramos a perder, y no me atreviera a tomar tu mano",
+          "en": "If we missed each other again, and I didn't dare to hold your hand",
+          "zh-TW": "我們 如果又一次錯過 不敢牽起妳的手",
+          "zh-CN": "我们 如果又一次错过 不敢牵起妳的手"
+        }
+      },
+      {
+        "id": "hswj_line15",
+        "base_duration": 5.2,
+        "texts": {
+          "pinyin": "Rúguǒ méiyǒu rúguǒ děngdào hóngxiàn lái de shíhòu",
+          "es": "Si no hay 'si', esperando el momento del hilo rojo del destino",
+          "en": "If there's no 'if', waiting for the red thread of fate to arrive",
+          "zh-TW": "如果沒有如果 等到紅線來的時候",
+          "zh-CN": "如果没有如果 等到红线来的时候"
+        }
+      },
+      {
+        "id": "hswj_line16",
+        "base_duration": 6.6,
+        "texts": {
+          "pinyin": "Rúguǒ kěyǐ wǒ xiǎng hé nǐ huí dào nà tiān xiāngyù",
+          "es": "Si pudiera, quisiera volver contigo al día en que nos conocimos",
+          "en": "If I could, I'd want to go back with you to the day we met",
+          "zh-TW": "如果可以 我想和妳回到那天相遇",
+          "zh-CN": "如果可以 我想和妳回到那天相遇"
+        }
+      },
+      {
+        "id": "hswj_line17",
+        "base_duration": 4.6,
+        "texts": {
+          "pinyin": "Ràng shíjiān tíngzhǐ nà yī chǎng yǔ",
+          "es": "Detener el tiempo en aquella lluvia",
+          "en": "Let time stop, that one rain",
+          "zh-TW": "讓時間停止 那一場雨",
+          "zh-CN": "让时间停止 那一场雨"
+        }
+      },
+      {
+        "id": "hswj_line18",
+        "base_duration": 7.7,
+        "texts": {
+          "pinyin": "Zhǐ xiǎng yōngbào nǐ zài shēnbiān de zhèngjù wěn nǐ de hūxī",
+          "es": "Solo quiero abrazar la prueba de que estás a mi lado, besar tu aliento",
+          "en": "Just want to embrace the proof of you by my side, kiss your breath",
+          "zh-TW": "只想擁抱 妳在身邊的證據 吻妳的呼吸",
+          "zh-CN": "只想拥抱 妳在身边的证据 吻妳的呼吸"
+        }
+      },
+      {
+        "id": "hswj_line19",
+        "base_duration": 6.6,
+        "texts": {
+          "pinyin": "Yī zhǎyǎn yī shùnjiān nǐ shuō hǎo jiùshì yǒngyuǎn",
+          "es": "En un parpadeo, en un instante, dijiste que sí sería para siempre",
+          "en": "In a blink, in an instant, you said yes would be forever",
+          "zh-TW": "一眨眼 一瞬間 妳說好就是永遠",
+          "zh-CN": "一眨眼 一瞬间 妳说好就是永远"
+        }
+      },
+      {
+        "id": "hswj_line20",
+        "base_duration": 8.6,
+        "texts": {
+          "pinyin": "Rúguǒ kěyǐ mángmáng rénhǎi qiānnián yīyǎn xiāngyù",
+          "es": "Si fuera posible, encontrarnos con una mirada en mil años entre la vasta multitud",
+          "en": "If possible, to meet with one glance in a thousand years in the vast sea of people",
+          "zh-TW": "如果可以 茫茫人海千年一眼相遇",
+          "zh-CN": "如果可以 茫茫人海千年一眼相遇"
+        }
+      },
+      {
+        "id": "hswj_line21",
+        "base_duration": 2.6,
+        "texts": {
+          "pinyin": "Yuèguāng xià zhuǎnshēn nà jiùshì nǐ",
+          "es": "Darte la vuelta bajo la luz de la luna, esa eres tú",
+          "en": "Turning around under the moonlight, that is you",
+          "zh-TW": "月光下轉身 那就是妳",
+          "zh-CN": "月光下转身 那就是妳"
+        }
+      },
+      {
+        "id": "hswj_line22",
+        "base_duration": 7.8,
+        "texts": {
+          "pinyin": "Hóngxiàn huàguò shēncáng lúnhuí de mìmì wǒ huīhuò yùnqì",
+          "es": "El hilo rojo cruzó, el profundo secreto de la reencarnación, derroché mi suerte",
+          "en": "The red thread crossed, the deep secret of reincarnation, I squandered my luck",
+          "zh-TW": "紅線劃過 深藏輪迴的秘密 我揮霍運氣",
+          "zh-CN": "红线划过 深藏轮回的秘密 我挥霍运气"
+        }
+      },
+      {
+        "id": "hswj_line23",
+        "base_duration": 7.0,
+        "texts": {
+          "pinyin": "Yīnwèi nǐ cái ràng wǒ bèi duì mìngyùn bù hàipà",
+          "es": "Es por ti que no temo darle la espalda al destino",
+          "en": "It's because of you that I'm not afraid to turn my back on fate",
+          "zh-TW": "因為妳 才讓我 背對命運不害怕",
+          "zh-CN": "因为妳 才让我 背对命运不害怕"
+        }
+      },
+      {
+        "id": "hswj_line24",
+        "base_duration": 8.6,
+        "texts": {
+          "pinyin": "Kàojìn le xiāngxìn le dàodǐ wǒmen ài dé yǒu duō lángbèi",
+          "es": "Nos acercamos, creímos, cuán desastrosamente enamorados estábamos",
+          "en": "Got closer, believed, just how messily we loved",
+          "zh-TW": "靠近了 相信了 到底我們愛得有多狼狽",
+          "zh-CN": "靠近了 相信了 到底我们爱得有多狼狈"
+        }
+      },
+      {
+        "id": "hswj_line25",
+        "base_duration": 4.2,
+        "texts": {
+          "pinyin": "Bàoyǔ kuángfēng yě bùxiǎng fángbèi",
+          "es": "Ni siquiera contra la tormenta y el viento furioso quise protegerme",
+          "en": "Even against the downpour and fierce wind, I didn't want to guard myself",
+          "zh-TW": "暴雨狂風也不想防備",
+          "zh-CN": "暴雨狂风也不想防备"
+        }
+      },
+      {
+        "id": "hswj_line26",
+        "base_duration": 11.9,
+        "texts": {
+          "pinyin": "Ài le jiù ài le zhǐ kè zài wǒmen lèiguāng de yuēdìng huǒ kāi chūle huā",
+          "es": "Amé y ya, solo la promesa grabada en nuestras lágrimas, el fuego hizo florecer una flor",
+          "en": "Loved then loved, only the promise etched in our tears, fire blossomed into a flower",
+          "zh-TW": "愛了 就愛了 只刻在我們淚光的約定 火開出了花",
+          "zh-CN": "爱了 就爱了 只刻在我们泪光的约定 火开出了花"
+        }
+      },
+      {
+        "id": "hswj_line27",
+        "base_duration": 7.0,
+        "texts": {
+          "pinyin": "Rúguǒ kěyǐ wǒ xiǎng hé nǐ huí dào nà tiān xiāngyù",
+          "es": "Si pudiera, quisiera volver contigo al día en que nos conocimos",
+          "en": "If I could, I'd want to go back with you to the day we met",
+          "zh-TW": "如果可以 我想和妳回到那天相遇",
+          "zh-CN": "如果可以 我想和妳回到那天相遇"
+        }
+      },
+      {
+        "id": "hswj_line28",
+        "base_duration": 4.9,
+        "texts": {
+          "pinyin": "Ràng shíjiān tíngzhǐ nà yī chǎng yǔ",
+          "es": "Detener el tiempo en aquella lluvia",
+          "en": "Let time stop, that one rain",
+          "zh-TW": "讓時間停止 那一場雨",
+          "zh-CN": "让时间停止 那一场雨"
+        }
+      },
+      {
+        "id": "hswj_line29",
+        "base_duration": 7.6,
+        "texts": {
+          "pinyin": "Zhǐ xiǎng yōngbào nǐ zài shēnbiān de zhèngjù wěn nǐ de hūxī",
+          "es": "Solo quiero abrazar la prueba de que estás a mi lado, besar tu aliento",
+          "en": "Just want to embrace the proof of you by my side, kiss your breath",
+          "zh-TW": "只想擁抱 妳在身邊的證據 吻妳的呼吸",
+          "zh-CN": "只想拥抱 妳在身边的证据 吻妳的呼吸"
+        }
+      },
+      {
+        "id": "hswj_line30",
+        "base_duration": 6.5,
+        "texts": {
+          "pinyin": "Yī zhǎyǎn yī wàn nián liú gěi wǒ bié kùn zhù nǐ",
+          "es": "En un parpadeo, diez mil años, déjamelo a mí, no te aprisionaré",
+          "en": "In a blink, ten thousand years, leave it to me, don't trap you",
+          "zh-TW": "一眨眼 一萬年 留給我別困住妳",
+          "zh-CN": "一眨眼 一万年 留给我别困住妳"
+        }
+      },
+      {
+        "id": "hswj_line31",
+        "base_duration": 6.7,
+        "texts": {
+          "pinyin": "Rúguǒ kěyǐ mángmáng rénhǎi qiānnián yīyǎn xiāngyù",
+          "es": "Si fuera posible, encontrarnos con una mirada en mil años entre la vasta multitud",
+          "en": "If possible, to meet with one glance in a thousand years in the vast sea of people",
+          "zh-TW": "如果可以 茫茫人海千年一眼相遇",
+          "zh-CN": "如果可以 茫茫人海千年一眼相遇"
+        }
+      },
+      {
+        "id": "hswj_line32",
+        "base_duration": 4.8,
+        "texts": {
+          "pinyin": "Yuèguāng xià zhuǎnshēn nà jiùshì nǐ",
+          "es": "Darte la vuelta bajo la luz de la luna, esa eres tú",
+          "en": "Turning around under the moonlight, that is you",
+          "zh-TW": "月光下轉身 那就是妳",
+          "zh-CN": "月光下转身 那就是妳"
+        }
+      },
+      {
+        "id": "hswj_line33",
+        "base_duration": 7.1,
+        "texts": {
+          "pinyin": "Hóngxiàn huàguò shēncáng lúnhuí de mìmì wǒ huā guāng yùnqì",
+          "es": "El hilo rojo cruzó, el profundo secreto de la reencarnación, gasté toda mi suerte",
+          "en": "The red thread crossed, the deep secret of reincarnation, I used up all my luck",
+          "zh-TW": "紅線劃過 深藏輪迴的秘密 我花光運氣",
+          "zh-CN": "红线划过 深藏轮回的秘密 我花光运气"
+        }
+      },
+      {
+        "id": "hswj_line34",
+        "base_duration": 12.6,
+        "texts": {
+          "pinyin": "Nǐ shì wǒ dǔ shàng shìjiè de juédìng",
+          "es": "Tú eres la decisión por la que aposté el mundo",
+          "en": "You are the decision I gambled the world on",
+          "zh-TW": "妳是我 賭上世界的 決定",
+          "zh-CN": "妳是我 赌上世界的 决定"
+        }
+      },
+      { "id": "hswj_melody_s8_n1", "base_duration": 1.5, "isMelody": true, "texts": {"pinyin": "", "es": "♫", "en": "♫", "zh-TW": "♫", "zh-CN": "♫"} },
+      { "id": "hswj_melody_s8_n2", "base_duration": 1.6, "isMelody": true, "texts": {"pinyin": "", "es": "♬", "en": "♬", "zh-TW": "♬", "zh-CN": "♬"} },
+      { "id": "hswj_melody_s8_n3", "base_duration": 1.1, "isMelody": true, "texts": {"pinyin": "", "es": "♪", "en": "♪", "zh-TW": "♪", "zh-CN": "♪"} },
+      { "id": "hswj_melody_s8_n4", "base_duration": 1.1, "isMelody": true, "texts": {"pinyin": "", "es": "♩", "en": "♩", "zh-TW": "♩", "zh-CN": "♩"} },
+      { "id": "hswj_melody_s8_n5", "base_duration": 0.6, "isMelody": true, "texts": {"pinyin": "", "es": "𝄞", "en": "𝄞", "zh-TW": "𝄞", "zh-CN": "𝄞"} },
+      { "id": "hswj_melody_s8_n6", "base_duration": 5.0, "isMelody": true, "texts": {"pinyin": "", "es": "♫♬♪♩𝄞", "en": "♫♬♪♩𝄞", "zh-TW": "♫♬♪♩𝄞", "zh-CN": "♫♬♪♩𝄞"} }
+    ]
   }
 }
